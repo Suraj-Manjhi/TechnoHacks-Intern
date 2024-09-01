@@ -20,7 +20,6 @@ During this internship, I implemented three projects:
 <br>&emsp; <b>- Tools:</b>
   <br>&emsp;&emsp;Microsoft Power BI
     <br>&emsp;<b>- Project links:</b>
-      <br> &emsp;&emsp;<b>* Github </b>: https://github.com/Abdelrahman-Elashaal/TechnoHacks_Internship/blob/main/Task%203%20(%20HR%20Analytics%20Using%20Power%20BI%20)/HR%20Analytics%20Using%20Power%20BI%20(TechnoHacks%20intern%20-%20Task3).pdf
+      <br> &emsp;&emsp;<b>* Github </b>:[ https://github.com/Abdelrahman-Elashaal/TechnoHacks_Internship/blob/main/Task%203%20(%20HR%20Analytics%20Using%20Power%20BI%20)/HR%20Analytics%20Using%20Power%20BI%20(TechnoHacks%20intern%20-%20Task3](https://github.com/Suraj-Manjhi/TechnoHacks-Intern/blob/8258cad939f2a9faae72fa7e8e3ea5c601c0c1a7/Task%203%20(%20HR%20Analytics%20Using%20Power%20BI%20)/HR%20Analytics%20Using%20Power%20BI%20(TechnoHacks%20intern%20-%20Task3).pdf))
       <br> &emsp;&emsp;<b>* Linkedin </b>: https://www.linkedin.com/posts/abdelrahman-ahmed-el-ashaal_datascience-dataanalyst-datavisualization-activity-7109598841691095040-T1aW?utm_source=share&utm_medium=member_desktop
 <hr>
-Certification of Internship completion : https://www.linkedin.com/posts/abdelrahman-ahmed-el-ashaal_data-analyst-technohacks-internship-certificate-activity-7113059104469790720-PYuw?utm_source=share&utm_medium=member_desktop
