@@ -12,7 +12,7 @@ During this internship, I implemented three projects:
   <br>&emsp; <b>- Tools:</b>
   <br>&emsp;&emsp;Python , Jupyter Notebook
     <br><b>Project links:</b>  (Task 1 & Task 2 )
-      <br>&emsp;<b>* Github </b>: https://github.com/Abdelrahman-Elashaal/TechnoHacks_Internship/blob/main/Task%201%20%26%20Task%202%20(Data%20Cleaning%20%2C%20Calculate%20Statistics)/TechnoHacks%20Task%201%20%26%20Task%202%20(Data%20Cleaning%2C%20Calculate%20Statistics).ipynb
+      <br>&emsp;<b>* Github </b>: [https://github.com/Abdelrahman-Elashaal/TechnoHacks_Internship/blob/main/Task%201%20%26%20Task%202%20(Data%20Cleaning%20%2C%20Calculate%20Statistics)/TechnoHacks%20Task%201%20%26%20Task%202%20(Data%20Cleaning%2C%20Calculate%20Statistics).ipynb](https://github.com/Suraj-Manjhi/TechnoHacks-Intern/tree/7183ecc105b5a4937ceb33789de23f9074d915a3/Task%201%20%26%20Task%202%20(Data%20Cleaning%20%2C%20Calculate%20Statistics))
     <br>&emsp;<b> * Linkedin </b>: https://www.linkedin.com/posts/abdelrahman-ahmed-el-ashaal_datascience-dataanalyst-datascientist-activity-7108806776757600256-i2iA?utm_source=share&utm_medium=member_desktop
 <br><br> <b>◼️ Task 3: HR Analytics Dashboard </b>
  <br>&emsp; <b>- Traget:</b>
