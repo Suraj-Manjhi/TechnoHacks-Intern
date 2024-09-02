@@ -13,7 +13,7 @@ During this internship, I implemented three projects:
   <br>&emsp;&emsp;Python , Jupyter Notebook
     <br><b>Project links:</b>  (Task 1 & Task 2 )
       <br>&emsp;<b>* Github </b>: [https://github.com/Suraj-Manjhi/TechnoHacks-Intern/tree/0b253be95fac213d73b14384a3e8d4bee6f037fb/Task%201%20%26%20Task%202%20(Data%20Cleaning%20%2C%20Calculate%20Statistics)](https://github.com/Suraj-Manjhi/TechnoHacks-Intern/tree/0b253be95fac213d73b14384a3e8d4bee6f037fb/Task%201%20%26%20Task%202%20(Data%20Cleaning%20%2C%20Calculate%20Statistics))](https://github.com/Suraj-Manjhi/TechnoHacks-Intern/tree/97cee3950cf593a99861938d9c35d457f7c95c7b/Task%201%20%26%20Task%202%20(Data%20Cleaning%20%2C%20Calculate%20Statistics))
-    <br>&emsp;<b> * Linkedin </b>: https://www.linkedin.com/posts/abdelrahman-ahmed-el-ashaal_datascience-dataanalyst-datascientist-activity-7108806776757600256-i2iA?utm_source=share&utm_medium=member_desktop
+    <br>&emsp;<b> * Linkedin </b>: [https://www.linkedin.com/posts/abdelrahman-ahmed-el-ashaal_datascience-dataanalyst-datascientist-activity-7108806776757600256-i2iA?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/suraj-manjhi-042892268_datascience-dataanalyst-datascientist-activity-7236237768866070528-HTKo?utm_source=share&utm_medium=member_desktop)
 <br><br> <b>◼️ Task 3: HR Analytics Dashboard </b>
  <br>&emsp; <b>- Traget:</b>
  <br>&emsp;&emsp;Identify fraudulent credit card transactions
@@ -21,5 +21,5 @@ During this internship, I implemented three projects:
   <br>&emsp;&emsp;Microsoft Power BI
     <br>&emsp;<b>- Project links:</b>
       <br> &emsp;&emsp;<b>* Github </b>:https://github.com/Abdelrahman-Elashaal/TechnoHacks_Internship/blob/main/Task%203%20(%20HR%20Analytics%20Using%20Power%20BI%20)/HR%20Analytics%20Using%20Power%20BI%20(TechnoHacks%20intern%20-%20Task3](https://github.com/Suraj-Manjhi/TechnoHacks-Intern/blob/8258cad939f2a9faae72fa7e8e3ea5c601c0c1a7/Task%203%20(%20HR%20Analytics%20Using%20Power%20BI%20)/HR%20Analytics%20Using%20Power%20BI%20(TechnoHacks%20intern%20-%20Task3).pdf))
-      <br> &emsp;&emsp;<b>* Linkedin </b>: https://www.linkedin.com/posts/abdelrahman-ahmed-el-ashaal_datascience-dataanalyst-datavisualization-activity-7109598841691095040-T1aW?utm_source=share&utm_medium=member_desktop
+      <br> &emsp;&emsp;<b>* Linkedin </b>: [https://www.linkedin.com/posts/abdelrahman-ahmed-el-ashaal_datascience-dataanalyst-datavisualization-activity-7109598841691095040-T1aW?](https://www.linkedin.com/posts/suraj-manjhi-042892268_datascience-dataanalyst-datavisualization-activity-7236238446166478849-MOS1?utm_source=share&utm_medium=member_desktop)utm_source=share&utm_medium=member_desktop
 <hr>
